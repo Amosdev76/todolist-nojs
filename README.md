@@ -17,6 +17,12 @@ NOTES:
     order: 1; 
     }
     
- 
+ it works with google chrome
  
  2) you can't add items dinamically without javascript but only with html code
+
+
+
+you can find it online on :
+
+https://todolistnojs.netlify.app/
